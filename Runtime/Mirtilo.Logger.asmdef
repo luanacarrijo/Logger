@@ -1,12 +1,8 @@
 {
-    "name": "Mirtilo.Template.Editor",
-    "rootNamespace": "Mirtilo.Template.Editor",
-    "references": [
-        "Mirtilo.Template"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "Mirtilo.Logger",
+    "rootNamespace": "Mirtilo.Logger",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
